@@ -1,4 +1,4 @@
-node {
+node{
 	stages{
 		stage('1-make a left'){
 			echo "walk...."
